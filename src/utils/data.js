@@ -24,7 +24,7 @@ export const projects = [
     id: 3,
     title: "Bolita Comilona",
     description:
-      "Bolita Comilona es un juego en Unity desarrollado en C# donde controlás una esfera que recorre laberintos recolectando 10 monedas por nivel, mientras esquivás zonas mortales y, en niveles más avanzados, enemigos que te persiguen. A medida que progresás, los mapas se vuelven más grandes yaparecen más obstáculos.",
+      "Bolita Comilona es un juego en Unity desarrollado en C# donde controlás una esfera que recorre laberintos recolectando 10 monedas por nivel, mientras esquivás zonas mortales y, en niveles más avanzados, enemigos que te persiguen. A medida que progresás, los mapas se vuelven más grandes y aparecen más obstáculos.",
     image: "/bolita_comilona.jpeg",
     tech: ["Unity", "C#"],
     github: "https://github.com/aguscastaneda/Bolita-Comilona",
