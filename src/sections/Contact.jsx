@@ -67,7 +67,7 @@ const Contact = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="mailto:agustin.castaneda@gmail.com"
+              href="mailto:castaneda.agustin.et21.21@gmail.com"
               className="inline-block px-8 py-4 bg-gradient-to-r from-accent-primary to-accent-secondary text-text-primary font-medium rounded-lg hover:from-accent-hover hover:to-accent-primary transition-all duration-300 shadow-lg hover:shadow-accent-primary/25 text-lg"
             >
               Escribime un mail
