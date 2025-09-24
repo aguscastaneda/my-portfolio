@@ -35,7 +35,7 @@ export const projects = [
     title: "Task Manager",
     description:
       "Task Manager desarrollado con stack MERN, que utiliza MongoDB como base de datos no relacional para gestionar usuarios mediante registro e inicio de sesión. La aplicación permite crear, actualizar, completar y eliminar tareas de forma eficiente.",
-    tech: ["MariaDB", "Express", "React", "Node.js"],
+    tech: ["MongoDB", "Express", "React", "Node.js"],
     github: "https://github.com/aguscastaneda/Gestor-Tareas",
   },
   {
