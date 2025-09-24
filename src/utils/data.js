@@ -4,7 +4,7 @@ export const projects = [
     title: "TurismoApp",
     description:
       "TurismoApp es una plataforma web de viajes que permite registrarse, explorar paquetes turísticos, convertir divisas en tiempo real y gestionar compras seguras mediante carrito y Mercado Pago. Cada orden queda registrada en la base de datos y se confirma automáticamente con un correo al usuario.",
-    image: "/public/turismoapp_logo.jpg",
+    image: "/turismoapp_logo.jpg",
     tech: ["MariaDB", "Express", "React", "Node.js"],
     github: "https://github.com/aguscastaneda/TurismoApp",
     demo: "https://turismo21.site",
@@ -15,7 +15,7 @@ export const projects = [
     title: "HardWindows",
     description:
       "HardWindows es un sistema en Python que permite administrar configuraciones avanzadas de Windows (registro, procesos, usuarios y permisos) desde una interfaz gráfica simple. Su objetivo es dar al usuario un control centralizado y fácil de usar sobre funciones que normalmente requieren conocimientos técnicos.",
-    image: "/public/hardwindows_logo.png",
+    image: "/hardwindows_logo.png",
     tech: ["Python", "Winreg", "Tkinter", "psutil"],
     github: "https://github.com/aguscastaneda/HardWindows",
     featured: true,
@@ -25,7 +25,7 @@ export const projects = [
     title: "Bolita Comilona",
     description:
       "Bolita Comilona es un juego en Unity desarrollado en C# donde controlás una esfera que recorre laberintos recolectando 10 monedas por nivel, mientras esquivás zonas mortales y, en niveles más avanzados, enemigos que te persiguen. A medida que progresás, los mapas se vuelven más grandes yaparecen más obstáculos.",
-    image: "/public/bolita_comilona.jpeg",
+    image: "/bolita_comilona.jpeg",
     tech: ["Unity", "C#"],
     github: "https://github.com/aguscastaneda/Bolita-Comilona",
     featured: true,
