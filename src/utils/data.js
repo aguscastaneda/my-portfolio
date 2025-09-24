@@ -69,7 +69,7 @@ export const socialLinks = [
   },
   {
     name: "Gmail",
-    url: "mailto:castaneda.agustin.et21.21@gmail.com",
+    url: "https://mail.google.com/mail/?view=cm&to=castaneda.agustin.et21.21@gmail.com",
     icon: "gmail",
   },
 ];
