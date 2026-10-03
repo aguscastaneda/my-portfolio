@@ -24,7 +24,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-text-secondary text-sm text-center">
-            © 2025 Agustín Castaneda
+            © 2026 Agustín Castaneda
           </p>
         </div>
       </div>
