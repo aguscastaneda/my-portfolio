@@ -84,7 +84,7 @@ const Contact = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/cv.pdf"
+              href="cv.pdf"
               download
               className="inline-block px-8 py-4 border border-accent-primary text-accent-primary font-medium rounded-lg hover:bg-accent-primary/10 transition-all duration-300 text-lg"
             >

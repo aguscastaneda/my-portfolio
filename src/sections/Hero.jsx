@@ -101,7 +101,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-accent-primary to-accent-secondary p-1">
                 <img
-                  src="/foto_cv.png"
+                  src="hero.png"
                   alt="Agustín Castaneda"
                   className="w-full h-full rounded-full object-cover"
                 />
