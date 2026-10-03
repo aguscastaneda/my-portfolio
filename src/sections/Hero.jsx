@@ -45,7 +45,7 @@ const Hero = () => {
               transition={{ delay: 0.4 }}
               className="text-xl sm:text-2xl text-accent-primary font-medium"
             >
-              Estudiante Ingeniería en Informática en la Universidad Austral, Argentina
+              Estudiante Ingeniería en Informática
             </motion.h2>
 
             <motion.p
