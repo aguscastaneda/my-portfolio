@@ -46,10 +46,7 @@ const About = () => {
               className="lg:col-span-2 space-y-6"
             >
               <p className="text-text-secondary text-lg leading-relaxed">
-                ¡Hola! Soy Agustín, un estudiante técnico en computación de 18
-                años apasionado por crear cosas que viven en internet. Mi
-                interés en el desarrollo comenzó en 2022 cuando elegí la
-                especialidad en mi escuela técnica.
+                ¡Hola! Soy Agustín, tengo 19 años, soy técnico en computación y actualmente estudio Ingeniería en Informática en la Universidad Austral, Argentina. Me apasiona crear cosas que viven en internet; mi interés por el desarrollo comenzó en 2022 cuando elegí la especialidad en mi escuela técnica.
               </p>
 
               <p className="text-text-secondary text-lg leading-relaxed">
